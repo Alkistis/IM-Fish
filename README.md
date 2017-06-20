@@ -8,6 +8,8 @@ If you do, please cite astro-ph/1610.04189 as well as the CAMB paper (astro-ph/9
 
 Updates:
 
+20/06/2017: Improved noise modelling.
+
 20/11/2016: Modified MeerKAT survey strategy (sky area and total observing time) to match the proposed MeerKLASS IM survey. Modified the fiducial b_HI and Omega_HI fitting functions to match the ones used in the IM chapter of the SKA Science Book (Santos et al 2015).
 
 25/10/2016: Corrected bug in dzpix calculation (thanks Andrej Obuljen)
